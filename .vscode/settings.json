@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "${workspaceFolder}\\env\\scripts\\python",
+    "code-runner.executorMap": {
+        "python": "call .\\env\\scripts\\activate.bat && python"
+    }
+}
